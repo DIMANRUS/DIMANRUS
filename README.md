@@ -4,7 +4,7 @@
 
 # ⚡ Favorite languages and tools
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimanrus&show_icons=true&theme=algolia&layout=compact&hide=java,assembly,pawn,pascal,asp.net" alt="thangchung" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimanrus&show_icons=true&theme=algolia&layout=compact&hide=java,assembly,pawn,pascal,asp.net&pot_1=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" alt="thangchung" />
 
 # :octocat: Github contributions
 
