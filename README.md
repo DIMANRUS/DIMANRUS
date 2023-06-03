@@ -12,4 +12,4 @@
 
 # 📫 How to reach me
 
-[WebSite](dimanrus.ru), [VK](https://vk.com/dimanrusdeveloper), [VK Group](https://vk.com/dimanrusdev), [Mail](mailto:dimanrus@dimanrudev.ru), [Telegram Channel](https://t.me/dimanrusdeveloper), [YouTube](https://www.youtube.com/channel/UCAqVujW927K6Y4A-UFJ6jwg)
+[WebSite](dimanrus.ru), [VK](https://vk.com/dimanrusdeveloper), [VK Group](https://vk.com/dimanrusdev), [Mail](mailto:dimanrus@dimanrus.ru), [Telegram Channel](https://t.me/dimanrusdeveloper), [YouTube](https://www.youtube.com/channel/UCAqVujW927K6Y4A-UFJ6jwg)
